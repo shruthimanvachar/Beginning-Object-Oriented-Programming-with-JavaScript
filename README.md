@@ -1,7 +1,7 @@
-# console-java-simple
+# Beginning Object-Oriented Programming with JavaScript
 
-A simple java "Hello World!" application, buildable with both maven and gradle. Useful for testing Eclipse Che Java workspaces.
 
+(A simple java "Hello World!" application, buildable with both maven and gradle. Useful for testing Eclipse Che Java workspaces.)
 
 # Building manually
 
